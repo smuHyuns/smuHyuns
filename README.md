@@ -5,6 +5,9 @@
 
 
 ####  :wave: Welcome my github profile !
+![Hyuns's GitHub stats](https://github-readme-stats.vercel.app/api?username=smuHyuns&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gustn5848)](https://solved.ac/gustn5848/)
+
 
 <br/>
 <br/>
@@ -24,6 +27,7 @@
 
 <br/>
 <br/>
+
 
   
 </div>
