@@ -22,7 +22,7 @@
 
 |프로그램|프로젝트명|레포지토리|수상|
 |----------|------------|------|------|
-|KB IT's Your Life 최종 프로젝트|Bbbbick|<a href="https://github.com/ITYL-Bbbbick"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Bbbbick-FEDE5B?style=flat-square&logoColor=smokewhite"/></a>|🏆 최우수상|
+|KB IT's Your Life 최종 프로젝트|Bbbbick|<a href="https://github.com/ITYL-Bbbbick"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Bbbbick-5354FF?style=flat-square&logoColor=smokewhite"/></a>|🏆 최우수상|
 
 <br>
 
