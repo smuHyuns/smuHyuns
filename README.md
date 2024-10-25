@@ -22,7 +22,7 @@
 
 |프로그램|프로젝트명|레포지토리|수상|
 |----------|------------|------|------|
-|KB IT's Your Life 최종 프로젝트|Bbbbick|<a href="https://github.com/ITYL-Bbbbick"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Bbbbick-FEDE5B?style=flat-square&logoColor=black"/></a>|🏆 최우수상|
+|KB IT's Your Life 최종 프로젝트|Bbbbick|<a href="https://github.com/ITYL-Bbbbick"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Bbbbick-FEDE5B?style=flat-square&logoColor=smokewhite"/></a>|🏆 최우수상|
 
 <br>
 
@@ -62,15 +62,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </div>
-
-  
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 
 <br/>
