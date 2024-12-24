@@ -36,20 +36,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-  
- <br/>
-
-#### Backend & Database
+#### Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-F7DF1E?style=flat-square&logo=python&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Oauth](htps://img.shields.io/badge/Oauth-4479A1?style=flat-square&logo=Oauth&logoColor=white)
+![oauth](https://img.shields.io/badge/oauth-4479A1?style=flat-square&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-007396?style=flat-square&logo=JWT&logoColor=white)
-
-<br>
+#### Database
 ![SpringJpa](https://img.shields.io/badge/springJpa-6DB33F?style=flat-square&logo=springJpa&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MyBatis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
