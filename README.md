@@ -45,7 +45,13 @@
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-F7DF1E?style=flat-square&logo=python&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) <br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Oauth](htps://img.shields.io/badge/Oauth-4479A1?style=flat-square&logo=Oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-007396?style=flat-square&logo=JWT&logoColor=white)
+
+<br>
+![SpringJpa](https://img.shields.io/badge/springJpa-6DB33F?style=flat-square&logo=springJpa&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MyBatis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Amazon_S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Amazon_RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
