@@ -16,7 +16,8 @@
 
 ### 🎓 교육 및 프로젝트 경험
 
-**2024** 국민은행 KB IT's Your Life 5기
+**2024** 국민은행 KB IT's Your Life 5기<br>
+**2024** 국민은행 KB IT's Your Life 5기 **우수 수료생**
 
 <br>
 
