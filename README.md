@@ -40,16 +40,17 @@
 
 #### Backend
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-F7DF1E?style=flat-square&logo=python&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![oauth](https://img.shields.io/badge/oauth-4479A1?style=flat-square&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-007396?style=flat-square&logo=JWT&logoColor=white)
 #### Database
-![SpringJpa](https://img.shields.io/badge/springJpa-6DB33F?style=flat-square&logo=springJpa&logoColor=white)
+![SpringJpa](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=springJpa&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=flat-square&logo=MyBatis&logoColor=white)
+![redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Amazon_S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Amazon_RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
@@ -60,12 +61,12 @@
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![githubactions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 #### Tools & IDEs
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
+![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![apachetomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![apachetomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 
 
 #### Design & Productivity
