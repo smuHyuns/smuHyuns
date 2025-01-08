@@ -26,7 +26,8 @@
 |프로그램|프로젝트명|레포지토리|수상|
 |----------|------------|------|------|
 |KB IT's Your Life 최종 프로젝트|beBig|<a href="https://github.com/ITYL-Bbbbick"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Bbbbick-5354FF?style=flat-square&logoColor=smokewhite"/></a>|🏆 최우수상|
-|KB IT's Your Life 프로젝트|Gabojago|<a href="https://github.com/smuHyuns/Gabojago"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Gabojago-5354FF?style=flat-square&logoColor=smokewhite"/></a>||
+|KB IT's Your Life 프로젝트|Gabojago|<a href="https://github.com/smuHyuns/Gabojago"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/Gabojago-5d8bff?style=flat-square&logoColor=smokewhite"/></a>||
+|KDT 해커톤|첫걸음|<a href="https://github.com/orgs/KDT-2024-FirstStep-Team/repositories"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/첫걸음-ED6F69?style=flat-square&logoColor=smokewhite"/></a>||
 <br>
 
 
