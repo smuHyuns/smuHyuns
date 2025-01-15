@@ -40,10 +40,12 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 #### Backend
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Spring_Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square&logo=Spring_Batch&logoColor=white)
+  ![Quartz](https://img.shields.io/badge/Quartz-4479A1?style=flat-square&logo=Quartz&logoColor=white)
 ![Python](https://img.shields.io/badge/python-F7DF1E?style=flat-square&logo=python&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![oauth](https://img.shields.io/badge/oauth-4479A1?style=flat-square&logo=oauth&logoColor=white)
